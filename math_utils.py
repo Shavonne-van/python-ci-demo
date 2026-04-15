@@ -1,0 +1,8 @@
+# math_utils.py
+def add(a, b):
+    """加法函数"""
+    return a + b
+
+def multiply(a, b):
+    """乘法函数"""
+    return a * b
